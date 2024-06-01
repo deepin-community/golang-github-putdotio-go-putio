@@ -1,5 +1,20 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-putdotio-go-putio (0.0~git20190822.19b9c63-3) unstable; urgency=medium
 
-  * Initial release
+  [ Debian Janitor ]
+  * Bump debhelper from old 12 to 13.
+  * Set upstream metadata fields: Repository-Browse.
+  * Update standards version to 4.6.1, no changes needed.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Jelmer Vernooĳ <jelmer@debian.org>  Thu, 24 Nov 2022 17:33:27 +0000
+
+golang-github-putdotio-go-putio (0.0~git20190822.19b9c63-2) unstable; urgency=medium
+
+  * Source-only upload.
+
+ -- Dr. Tobias Quathamer <toddy@debian.org>  Thu, 17 Oct 2019 21:55:35 +0200
+
+golang-github-putdotio-go-putio (0.0~git20190822.19b9c63-1) unstable; urgency=medium
+
+  * Initial release (Closes: #941736)
+
+ -- Dr. Tobias Quathamer <toddy@debian.org>  Fri, 04 Oct 2019 14:17:04 +0200
